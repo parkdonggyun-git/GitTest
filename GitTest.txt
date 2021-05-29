@@ -11,3 +11,17 @@ GitTest.parkdg
 - git commit -m "xxxxx"
  > 메시지 코멘트와 함께 커밋한다(로컬)
 
+
+- git log
+ > 커밋 히스토리를 보여준다
+
+- git checkout OOOO
+ > OOOO 커멋 ID로 시간이동한다
+
+- git checkout -
+ > 가장 최신 버전의 커밋으로 이동한다.
+
+* github, gitlab : 원격 저장소 (repository)
+
+
+https://github.com/parkdonggyun-git/GitTest.git
