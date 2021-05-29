@@ -34,3 +34,5 @@ https://github.com/parkdonggyun-git/GitTest.git
 -  git push origin master
  > remot repo.에 푸쉬하기
 
+-  git clone https://github.com/parkdonggyun-git/GitTest.git .
+ > remote repo.를 로컬로 복제한다.
