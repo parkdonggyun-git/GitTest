@@ -1,5 +1,13 @@
 GitTest.parkdg
 
 - 특정 폴더에서 마우스 우클릭 > git bash 실행
+
 - git init : 로컬 저장소 생성
  > .git 이라는 폴더가 만들어지는데, 이것이 로컬 저장소임.
+
+- git add 파일이름 
+ > 특정 파일을 git에 추가한다.(로컬)
+
+- git commit -m "xxxxx"
+ > 메시지 코멘트와 함께 커밋한다(로컬)
+
