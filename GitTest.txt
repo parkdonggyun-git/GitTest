@@ -1,27 +1,27 @@
 GitTest.parkdg
 
-- Æ¯Á¤ Æú´õ¿¡¼­ ¸¶¿ì½º ¿ìÅ¬¸¯ > git bash ½ÇÇà
+- íŠ¹ì • í´ë”ì—ì„œ ë§ˆìš°ìŠ¤ ìš°í´ë¦­ > git bash ì‹¤í–‰
 
-- git init : ·ÎÄÃ ÀúÀå¼Ò »ý¼º
- > .git ÀÌ¶ó´Â Æú´õ°¡ ¸¸µé¾îÁö´Âµ¥, ÀÌ°ÍÀÌ ·ÎÄÃ ÀúÀå¼ÒÀÓ.
+- git init : ë¡œì»¬ ì €ìž¥ì†Œ ìƒì„±
+ > .git ì´ë¼ëŠ” í´ë”ê°€ ë§Œë“¤ì–´ì§€ëŠ”ë°, ì´ê²ƒì´ ë¡œì»¬ ì €ìž¥ì†Œìž„.
 
-- git add ÆÄÀÏÀÌ¸§ 
- > Æ¯Á¤ ÆÄÀÏÀ» git¿¡ Ãß°¡ÇÑ´Ù.(·ÎÄÃ)
+- git add íŒŒì¼ì´ë¦„ 
+ > íŠ¹ì • íŒŒì¼ì„ gitì— ì¶”ê°€í•œë‹¤.(ë¡œì»¬)
 
 - git commit -m "xxxxx"
- > ¸Þ½ÃÁö ÄÚ¸àÆ®¿Í ÇÔ²² Ä¿¹ÔÇÑ´Ù(·ÎÄÃ)
+ > ë©”ì‹œì§€ ì½”ë©˜íŠ¸ì™€ í•¨ê»˜ ì»¤ë°‹í•œë‹¤(ë¡œì»¬)
 
 
 - git log
- > Ä¿¹Ô È÷½ºÅä¸®¸¦ º¸¿©ÁØ´Ù
+ > ì»¤ë°‹ ížˆìŠ¤í† ë¦¬ë¥¼ ë³´ì—¬ì¤€ë‹¤
 
 - git checkout OOOO
- > OOOO Ä¿¸Ú ID·Î ½Ã°£ÀÌµ¿ÇÑ´Ù
+ > OOOO ì»¤ë©‹ IDë¡œ ì‹œê°„ì´ë™í•œë‹¤
 
 - git checkout -
- > °¡Àå ÃÖ½Å ¹öÀüÀÇ Ä¿¹ÔÀ¸·Î ÀÌµ¿ÇÑ´Ù.
+ > ê°€ìž¥ ìµœì‹  ë²„ì „ì˜ ì»¤ë°‹ìœ¼ë¡œ ì´ë™í•œë‹¤.
 
-* github, gitlab : ¿ø°Ý ÀúÀå¼Ò (repository)
+* github, gitlab : ì›ê²© ì €ìž¥ì†Œ (repository)
 
 
 * Remote git addr.
@@ -29,10 +29,14 @@ GitTest.parkdg
 https://github.com/parkdonggyun-git/GitTest.git
 
 -  git remote add origin https://github.com/parkdonggyun-git/GitTest.git
- > remote repo Ãß°¡
+ > remote repo ì¶”ê°€
 
 -  git push origin master
- > remot repo.¿¡ Çª½¬ÇÏ±â
+ > remot repo.ì— í‘¸ì‰¬í•˜ê¸°
 
 -  git clone https://github.com/parkdonggyun-git/GitTest.git .
- > remote repo.¸¦ ·ÎÄÃ·Î º¹Á¦ÇÑ´Ù.
+ > remote repo.ë¥¼ ë¡œì»¬ë¡œ ë³µì œí•œë‹¤.
+
+
+- git pull origin master
+ > remoteì˜ ë‚´ìš©ì„ ë¡œì»¬ì— ë‹¤ì‹œ ì—…ë°ì´íŠ¸
