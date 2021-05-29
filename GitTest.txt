@@ -24,4 +24,13 @@ GitTest.parkdg
 * github, gitlab : 원격 저장소 (repository)
 
 
+* Remote git addr.
+
 https://github.com/parkdonggyun-git/GitTest.git
+
+-  git remote add origin https://github.com/parkdonggyun-git/GitTest.git
+ > remote repo 추가
+
+-  git push origin master
+ > remot repo.에 푸쉬하기
+
