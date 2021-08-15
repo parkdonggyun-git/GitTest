@@ -1,3 +1,5 @@
+* git download : https://git-scm.com/downloads
+
 GitTest.parkdg
 
 - 특정 폴더에서 마우스 우클릭 > git bash 실행
